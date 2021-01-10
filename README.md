@@ -1,6 +1,6 @@
 # Video_Straming_ffmpeg
 
-* locate file in folder with Dockerfile
+* Place video with Docker file in one directory  
 
 *Build the Image
 
